@@ -28,3 +28,27 @@ While the condition is met, keep executing the intended block. If not met, skip 
 Things to consider: 
     - Program can enter the loop
     - Program can exit the loop
+
+<!-- LeetCode -->
+
+## Range
+It's a pre-defined function that generates a sequence of numbers.
+
+Useful: Loops for iterating a specific number of times over a sequence of numbers.
+
+range(start, stop(not including), step)
+
+Cannot apply to floats - counts as integers (whole numbers)
+
+## For Loop
+For each item in a sequence execute the intended statements. 
+
+for variable_name in sequence: 
+    stats
+
+## Practice Example 1
+Finding the sum of the first ten numbers (1,2, ... 10)
+
+## Practice Example 2
+Find the largest number in the list
+list = [3, 41, 12, 0, 24, 15]
